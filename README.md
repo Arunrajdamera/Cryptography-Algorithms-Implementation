@@ -32,4 +32,10 @@ Enter a message when prompted. The program will show:
 
 ## Screenshots
 
-Add screenshots of the program output in the `screenshots` folder.
+### Program Output
+
+![Program Output](screenshots/program_output.png)
+
+### Crypto Output
+
+![Crypto Output](screenshots/crypto_output.png)
